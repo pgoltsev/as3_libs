@@ -1,2 +1,4 @@
-# as3_libs
-Libraries, utilities and common templates for AS3 projects.
+#### ActionScript 3 libraries and bootstrap template for a project.
+The repository contains libraries, utilities and bootstrap template of a common project I gathered and developed during my work as AS3 developer. 
+
+Published under MIT license.

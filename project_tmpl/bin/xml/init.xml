@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<config>
+		<!-- узел внешних библиотек -->
+		<externalResources>
+			<fontsLibrary type="movieclip" url="fonts.swf" />
+		</externalResources>
+		<!--  -->
+	</config>
+	
+	<txt>
+		
+	</txt>
+</data>
